@@ -13,4 +13,10 @@ From Project Euler Problem 5: 2520 is the smallest number that can be divided by
 9. 2520/2 = 1260
 10. 2520/1 = 2520
 
+### Programming Language of Choice
+Python
 
+#### Ideas
+1. Make a For Loop that goes from 1 to 20 where it will continue calculating until it finds the smallest divisor.
+2. May need to use a nested for loop to solve the problem
+3. Will probably need to use the min library. 
